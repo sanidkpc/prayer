@@ -1,0 +1,20 @@
+{
+  "name": "prayer",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://sanidkpc.github.io/prayer/",
+  "dependencies": {
+    "material-ui": "^1.0.0-beta.40",
+    "material-ui-icons": "^1.0.0-beta.36",
+    "moment": "^2.22.0",
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0",
+    "react-scripts": "1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

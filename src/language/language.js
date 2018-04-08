@@ -1,0 +1,46 @@
+const Translate={};
+Translate['en']={
+	headerTitle:'Prayer Time',
+	NearestMasjid:'Nearest Masjid',
+	PrayerTimeCalendar:'Prayer Time Calendar',
+	MyCurrentLocationBtn:'My Current Location',
+	Address:'Address',
+	EnterYourArea:'Enter your area',
+	inputHelperText:'Enter your area (e.g. Dhaka University Campus, Dhaka, Bangladesh)',
+	Namaztime:'Namaz time',
+	Fajr:'Fajr',
+	Sunrise:'Sunrise',
+	Dhuhr:'Dhuhr',
+	Asr:'Asr',
+	Sunset:'Sunset',
+	Maghrib:'Maghrib',
+	Isha:'Isha',
+	Imsak:'Imsak',
+	Midnight:'Midnight',
+	SearchingNearestMosque:'Searching nearest mosque',
+	Date:'Date',
+	getdirections:'Get Directions'
+}
+Translate['bn']={
+	headerTitle:'নামাজের সময়',
+	NearestMasjid:'নিকটবর্তী মসজিদ',
+	PrayerTimeCalendar:'নামাজের সময়সূচি ও পঞ্জিকা',
+	MyCurrentLocationBtn:'আমার বর্তমান অবস্থান',
+	Address:'ঠিকানা',
+	EnterYourArea:'আপনার এলাকা লিখুন',
+	inputHelperText:'আপনার এলাকা লিখুন (যেমন ঢাকা বিশ্ববিদ্যালয় ক্যাম্পাস, ঢাকা, বাংলাদেশ)',
+	Namaztime:'নামাজের সময়',
+	Fajr:'ফজর',
+	Sunrise:'সূর্যোদয়',
+	Dhuhr:'যোহর',
+	Asr:'আছর',
+	Sunset:'সূর্যাস্ত',
+	Maghrib:'মাগরিব',
+	Isha:'ইশা',
+	Imsak:'Imsak',
+	Midnight:'মধ্যরাত্রি',
+	SearchingNearestMosque:'নিকটতম মসজিদ অনুসন্ধান',
+	Date:'তারিখ',
+	getdirections:'দিকনির্দেশ পেতে'
+}
+export default Translate;
